@@ -34,15 +34,20 @@ body{
 }
 .titulo{
     font-size: var(--font-size-titulos);
+   
 }
 .precio{
     font-size: var(--font-size-precios);
 }
 .descuento{
     font-size: var(--font-size-descuentos);
+    color:var(--color-gris-oscuro);
 }
 .descripcion{
     font-size: var(--font-size-descripciones);
+    color:var(--color-gris-oscuro);
+    padding-top: 30px;
+    padding-bottom: 15px;
 }
 
 

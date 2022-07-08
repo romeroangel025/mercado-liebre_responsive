@@ -64,6 +64,17 @@ border-radius: 4px;
 
 }
 
+@media  screen and (max-width:768px ) {
+    .home__header__contain .home__header__nav{
+        display: none;
+      }
+  }
 
+  @media screen and (min-width: 768px) {
+    .home__header__contain .menu_burger {
+      display: none;
+    }
+   
+  }
 
 
